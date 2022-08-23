@@ -10,3 +10,5 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 * Dia 5 - 
 * Dia 6 - 
 * Dia 7 - 
+
+Por enquanto, o resultado está <a href="https://enyus.github.io/7DoC-HTML-CSS/optimusTech/index.html">ASSIM</a>
