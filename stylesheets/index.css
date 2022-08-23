@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap');
+
+.index__body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.index__main {
+    margin: 5% auto;
+    max-width: 70%;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    padding-bottom: 0.67em;
+}
+
+.index__titulo {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.index__main .lista__item {
+    margin: 20px 0;
+}
+
+.index_img {
+    max-width: 100%;
+    margin: 15px auto;
+}
+
+.index__link:visited {
+    color: #0000EE;
+}

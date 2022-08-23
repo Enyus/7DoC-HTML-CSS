@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap');
+
+@import url('./reset.css');
+@import url('./index.css');
+@import url('./header.css');
+
+* {
+    box-sizing: border-box;
+}
+
+:root{
+    --cinza: #667085;
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+}
+
+p {
+    text-align: justify;
+}
+
+.optimusTech__body {
+    font-family: 'Inter', sans-serif;
+}
