@@ -4,6 +4,7 @@
     background-color: black;
     color: white;
     font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
 }
 
 .index__main {
@@ -30,6 +31,17 @@
     margin: 15px auto;
 }
 
+.index__link {
+    color: whitesmoke;
+    text-underline-offset: 3px;
+}
+
 .index__link:visited {
-    color: #0000EE;
+    color: lightgray;
+}
+
+@media screen and (max-width: 1200px) {
+    .index__main {
+        max-width: 95%;
+    }
 }
