@@ -2,7 +2,8 @@
 Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 
 * Dia 1 - Header/Navbar ✅
-[Imgur](https://i.imgur.com/fb2e7yh.png)
+<img src="https://i.imgur.com/fb2e7yh.png" alt="Resultado do desafio do primeiro dia, header da página Optimus Tech">
+
 * Dia 2 - 
 * Dia 3 - 
 * Dia 4 - 
