@@ -1,5 +1,5 @@
 .headhunting__link {
-    font-size: 0.8em;
+    font-size: 0.8rem;
     color: var(--vermelho);
     background-color: rgba(142, 36, 36, 0.05);
     border-radius: 16px;
@@ -8,14 +8,14 @@
 }
 
 .headhunting__titulo {
-    font-size: 2.5em;
+    font-size: 2.5rem;
     font-weight: 600;
     margin: 15px 0;
 }
 
 .headhunting__desc {
     color: var(--cinza);
-    font-size: 1.2em;
+    font-size: 1.2rem;
 }
 
 .headhunting__img {
@@ -30,7 +30,7 @@
 
 .area__titulo {
     margin: 20px 0;
-    font-size: 1.2em;
+    font-size: 1.2rem;
 }
 
 .vaga__card {
@@ -41,7 +41,7 @@
 }
 
 .vaga__titulo {
-    font-size: 1.1em;
+    font-size: 1.1rem;
     margin-bottom: 40px;
 }
 
@@ -54,4 +54,10 @@
     display: inline-block;
     color: var(--cinza);
     margin-left: 20px;
+}
+
+@media screen and (max-width: 1020px) {
+    .headhunting__vagas {
+        width: 100%;
+    }
 }

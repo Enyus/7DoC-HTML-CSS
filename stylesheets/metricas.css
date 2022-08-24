@@ -6,12 +6,13 @@
 
 .metricas__item{
     width: 280px;
+    max-width: 30%;
     margin: 0 15px 15px 0;
 }
 
 .metricas__valor {
     color: var(--vermelho);
-    font-size: 4em;
+    font-size: 4rem;
     font-weight: 600;
 }
 

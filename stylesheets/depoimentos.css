@@ -6,12 +6,12 @@
 
 .depoimentos__explicativo {
     color: var(--vermelho);
-    font-size: 0.9em;
+    font-size: 0.9rem;
     font-weight: 600;
 }
 
 .depoimentos__titulo {
-    font-size: 2em;
+    font-size: 2rem;
     margin: 20px 0;
 }
 
@@ -21,6 +21,12 @@
 
 .depoimento__cargo {
     color: var(--cinza);
-    font-size: 0.9em;
+    font-size: 0.9rem;
     margin-top: 10px;
+}
+
+@media screen and (max-width: 1020px) {
+    .depoimentos__container {
+        padding: 30px;
+    }
 }
