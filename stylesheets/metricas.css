@@ -1,0 +1,24 @@
+.metricas__lista {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.metricas__item{
+    width: 280px;
+    margin: 0 15px 15px 0;
+}
+
+.metricas__valor {
+    color: var(--vermelho);
+    font-size: 4em;
+    font-weight: 600;
+}
+
+.metricas__titulo {
+    margin: 15px 0;
+}
+
+.metricas__descricao {
+    color: var(--cinza);
+}

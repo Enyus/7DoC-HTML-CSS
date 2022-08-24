@@ -3,6 +3,11 @@
 @import url('./reset.css');
 @import url('./index.css');
 @import url('./header.css');
+@import url('./sobre.css');
+@import url('./metricas.css');
+@import url('./headhunting.css');
+@import url('./depoimentos.css');
+@import url('./formulario.css');
 
 * {
     box-sizing: border-box;
@@ -20,4 +25,13 @@ p {
 
 .optimusTech__body {
     font-family: 'Inter', sans-serif;
+}
+
+section {
+    width: 80%;
+    margin: 5% auto;
+}
+
+.centralizado {
+    text-align: center;
 }

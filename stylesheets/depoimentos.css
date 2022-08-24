@@ -1,0 +1,26 @@
+.depoimentos__container {
+    padding: 60px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+}
+
+.depoimentos__explicativo {
+    color: var(--vermelho);
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+.depoimentos__titulo {
+    font-size: 2em;
+    margin: 20px 0;
+}
+
+.depoimentos__avatar {
+    margin: 16px 0;
+}
+
+.depoimento__cargo {
+    color: var(--cinza);
+    font-size: 0.9em;
+    margin-top: 10px;
+}

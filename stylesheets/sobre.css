@@ -1,0 +1,17 @@
+.texto__explicativo {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.titulo__principal {
+    font-size: 3em;
+    font-weight: bolder;
+    margin: 30px 0;
+}
+
+.texto__descricao {
+    font-size: 1.2em;
+    color: var(--cinza);
+    margin: 0 auto;
+    width: 80%;
+}
