@@ -10,7 +10,15 @@
     <link rel="stylesheet" href="../stylesheets/style.css">
 </head>
 
-<body class="optimusTech__body">
+<body class="optimusTech__body" id="optimusTech">
+    <script>
+        function liberaConteudo () {
+            document.getElementById('liberar__conteudo').click();
+            document.getElementsByClassName('liberar__conteudo')[0].style.display = 'none';
+        }
+    </script>
+    <input type="checkbox" id="liberar__conteudo" hidden>
+    <button class="liberar__conteudo" onclick="liberaConteudo()">Liberar Conteúdo</button>
 
     <header class="cabecalho__principal" id="navegacao">
         <navbar class="cabecalho__navegacao">

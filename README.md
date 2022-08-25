@@ -7,7 +7,9 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 * Dia 2 - Cabeçalho ✅
 <img src="https://imgur.com/A8zpihz.png" alt="Resultado do desafio do segundo dia, seção de cabeçalho da página Optimus Tech">
 
-* Dia 3 - 
+* Dia 3 - Métricas ✅
+<img src="https://i.imgur.com/Tqrfi91.png" alt="Resultado do desafio do terceiro dia, seção de métricas da página Optimus Tech">
+
 * Dia 4 - 
 * Dia 5 - 
 * Dia 6 - 

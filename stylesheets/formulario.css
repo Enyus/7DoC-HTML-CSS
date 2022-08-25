@@ -1,8 +1,8 @@
 .formulario__container {
-    width: 100vw;
+    width: 100%;
     margin: 0;
     padding: 70px 0px;
-    background: #F9FAFB;
+    background: var(--background-formulario);
 }
 
 .formulario__titulo {
@@ -25,7 +25,7 @@
 .formulario__input {
     padding: 10px;
     border-radius: 8px;
-    border: 1px solid #D0D5DD;
+    border: 1px solid var(--cor-borda-formulario);
     width: 70%;
 }
 
