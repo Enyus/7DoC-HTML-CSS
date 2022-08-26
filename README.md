@@ -10,7 +10,9 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 * Dia 3 - Métricas ✅
 <img src="https://i.imgur.com/Tqrfi91.png" alt="Resultado do desafio do terceiro dia, seção de métricas da página Optimus Tech">
 
-* Dia 4 - 
+* Dia 4 - Seção Procurando Talentos ✅
+<img src="https://i.imgur.com/SEFagcO.png" alt="Resultado do desafio do quarto dia, seção de Procurando Talentos da página Optimus Tech">
+
 * Dia 5 - 
 * Dia 6 - 
 * Dia 7 - 
