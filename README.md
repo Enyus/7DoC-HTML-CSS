@@ -16,7 +16,8 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 * Dia 5 - Seção Vagas Disponíveis ✅
 <img src="https://i.imgur.com/f3L7YdT.png" alt="Resultado do desafio do quinto dia, seção de Vagas Disponíveis da página Optimus Tech">
 
-* Dia 6 - 
+* Dia 6 - Seção Depoimentos ✅
+<img src="https://i.imgur.com/PuMnyJt.png" alt="Resultado do desafio do sexto dia, seção de Depoimentos da página Optimus Tech">
 
 * Dia 7 - 
 
