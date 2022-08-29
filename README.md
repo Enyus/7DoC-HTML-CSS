@@ -19,6 +19,7 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 * Dia 6 - Seção Depoimentos ✅
 <img src="https://i.imgur.com/PuMnyJt.png" alt="Resultado do desafio do sexto dia, seção de Depoimentos da página Optimus Tech">
 
-* Dia 7 - 
+* Dia 7 - Rodapé/Formulário ✅
+<img src="https://i.imgur.com/ElgcNYi.png" alt="Resultado do desafio do sétimo dia, Rodapé/Formulário da página Optimus Tech">
 
 Por enquanto, o resultado está <a href="https://enyus.github.io/7DoC-HTML-CSS/optimusTech/index.html">ASSIM</a>
