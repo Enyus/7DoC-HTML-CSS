@@ -1,6 +1,17 @@
 # 7DaysOfCode - HTML e CSS
 Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **7DaysOfCode - HTML e CSS**
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         | https://enyus.github.io/7DoC-HTML-CSS/
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![preview](./img/optimustech_screenshot.png#vitrinedev)
+
+## Detalhes do Projeto
+
 * Dia 1 - Header/Navbar ✅
 <img src="https://i.imgur.com/fb2e7yh.png" alt="Resultado do desafio do primeiro dia, header da página Optimus Tech">
 
