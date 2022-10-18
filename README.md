@@ -8,7 +8,7 @@ Repositório para guardar os desafios do #7DaysOfCode em HTML e CSS da Alura.
 | :rocket: URL         | https://enyus.github.io/7DoC-HTML-CSS/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![preview](https://i.imgur.com/O0gjP1q.png#vitrinedev)
+![](https://i.imgur.com/O0gjP1q.png#vitrinedev)
 
 ## Detalhes do Projeto
 
